@@ -1,0 +1,16 @@
+# gohome
+DOMAIN,vcsa.l3x.io
+DOMAIN,wnas.l3x.io
+DOMAIN,nas.l3x.io
+DOMAIN,dva.l3x.io
+DOMAIN,dva51.l3x.io
+DOMAIN,esxi.l3x.io
+DOMAIN,esxi1.l3x.io
+DOMAIN,dns.l3x.io
+DOMAIN,pbx.l3x.io
+DOMAIN,ros.l3x.io
+DOMAIN,rosb.l3x.io
+DOMAIN,ap1.l3x.io
+DOMAIN,ap2.l3x.io
+DOMAIN,cam.l3x.io
+DOMAIN,stream.l3x.io
